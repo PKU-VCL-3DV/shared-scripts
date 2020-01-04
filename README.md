@@ -21,3 +21,5 @@ Mesh is visualized by [trimesh](https://github.com/mikedh/trimesh), point cloud 
 ### Hausdorff Distance
 - [directed_hausdorff.py](https://github.com/PKU-VCL-3DV/shared-scripts/tree/master/loss-and-evaluation/directed_hausdorff.py) provides pytorch implementation for directed hausdorff distance.
 - Tensorflow implementation can be found [here](https://github.com/xuelin-chen/pcl2pcl-gan-pub/blob/master/pc2pc/structural_losses_utils/tf_hausdorff_distance.py).
+### Light Field Distance
+- pending...
